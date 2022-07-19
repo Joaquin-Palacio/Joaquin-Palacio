@@ -5,10 +5,7 @@
 
 Esperando mi primer empleo IT 🙌 <br/>
 Me gusta mucho aprender cosas nuevas 👀 <br/>
-Graduado de Henry 🚀 <br/>
-
-
-
+Graduado de Henry 🚀 <br/> <br/> <br/>
 
 <h4>Tecnologias que manejo 💻</h4>
 

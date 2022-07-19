@@ -1,6 +1,15 @@
 <h1 align="center">Hola a tod@s, Soy Joaquin 👋 !! Bienvenid@s a mi GitHub</h1>
 <h2 align="center">Soy Full Stack Developer 🚀🚀</h2>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
+
+
+Esperando mi primer empleo IT 🙌 <br/>
+Me gusta mucho aprender cosas nuevas 👀 <br/>
+Graduado de Henry 🚀 <br/>
+
+
+
+
 <h4>Tecnologias que manejo 💻</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -13,9 +22,11 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<br />
 
-
-
-
+Puedes Contactarme ⬇️ 
+<br />
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaquinpalacio2311@gmail.com)](mailto:joaquinpalacio2311@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-palacio/)](https://www.linkedin.com/in/joaquin-palacio/) 
 
 

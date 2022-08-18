@@ -21,6 +21,12 @@ Graduado de Henry 🚀 <br/> <br/> <br/>
 
 <br />
 
+<h4>Tecnologías que estoy aprendiendo 📖</h4>
+
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br />
+
 Puedes Contactarme ⬇️ 
 <br /> <br />
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaquinpalacio2311@gmail.com)](mailto:joaquinpalacio2311@gmail.com)

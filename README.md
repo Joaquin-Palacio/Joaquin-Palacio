@@ -3,7 +3,7 @@
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
 
 
-Esperando mi primer empleo IT 🙌 <br/>
+Buscando mi primera experiencia laboral🙌 <br/>
 Me gusta mucho aprender cosas nuevas 👀 <br/>
 Graduado de Henry 🚀 <br/> <br/> <br/>
 

@@ -21,7 +21,7 @@ Graduado de Henry 🚀 <br/> <br/> <br/>
 
 <br />
 
-<h4>Tecnologías que estoy aprendiendo 📖</h4>
+<h4>Tecnologías que estoy aprendiendo / he trabajado 📖</h4>
 
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 

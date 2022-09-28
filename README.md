@@ -7,6 +7,11 @@ Buscando mi primera experiencia laboral. 🙌 <br/>
 Me gusta aprender cosas nuevas y perfeccionar los conocimientos que ya tengo. 👀 <br/>
 Graduado de Henry 🚀 <br/> <br/> <br/>
 
+<h3 align="center" > Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h3>
+ Visitor count:
+  <img src="https://profile-counter.glitch.me/gastonperez97/count.svg" />
+</h3>
+
 <h4>Tecnologias que manejo 💻</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

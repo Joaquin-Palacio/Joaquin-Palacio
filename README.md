@@ -3,7 +3,8 @@
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
 
 
-Buscando mi primera experiencia laboral 🙌. En estos momentos me inclino mas al Front End 😜<br/>
+Buscando mi primera experiencia laboral 🙌 <br/> 
+En estos momentos me inclino más al Front End 😜<br/>
 Me gusta aprender cosas nuevas y perfeccionar los conocimientos que ya tengo. 👀 <br/>
 Graduado de Henry 🚀 <br/> <br/> <br/>
 

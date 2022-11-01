@@ -1,5 +1,5 @@
 <h1 align="center">Hola a tod@s, Soy Joaquin 👋 !! Bienvenid@s a mi GitHub</h1>
-<h2 align="center">Soy Full Stack Developer 🚀🚀</h2>
+<h2 align="center">Full Stack Web Developer 🚀 | Front End Developer 🚀</h2>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="400" height="300" />
 
 

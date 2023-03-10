@@ -7,7 +7,7 @@ Buscando mi primera experiencia laboral 🙌 <br/>
 Me gusta aprender cosas nuevas y perfeccionar los conocimientos que ya tengo. 👀 <br/>
 Graduado de Henry 🚀 <br/> <br/> <br/>
 
-<h4>Tecnologias que manejo 💻</h4>
+<h3>Tecnologias que manejo 💻</h4>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -21,7 +21,7 @@ Graduado de Henry 🚀 <br/> <br/> <br/>
 
 <br />
 
-<h4>Tecnologías que estoy aprendiendo / practicado 📖</h4>
+<h3>Tecnologías que estoy aprendiendo / practicado 📖</h4>
 
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
